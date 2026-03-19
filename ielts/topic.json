@@ -1,0 +1,2541 @@
+{
+  "version": 1,
+  "data": [
+    {
+      "id": 1,
+      "topic": "Education",
+      "type": "Advantages/Disadvantages",
+      "question": "University education should be free for all students. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 2,
+      "topic": "Education",
+      "type": "Discussion",
+      "question": "Online learning is more effective than traditional classroom learning. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 3,
+      "topic": "Education",
+      "type": "Advantages/Disadvantages",
+      "question": "Students should focus only on academic subjects. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 4,
+      "topic": "Education",
+      "type": "Problem/Solution",
+      "question": "Exams are the best way to assess students. Discuss both views.",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 5,
+      "topic": "Education",
+      "type": "Opinion",
+      "question": "Homework is unnecessary for school children. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 6,
+      "topic": "Education",
+      "type": "Opinion",
+      "question": "Teachers should be paid more than other professions. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 7,
+      "topic": "Education",
+      "type": "Discussion",
+      "question": "Education should focus more on practical skills than theory. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 8,
+      "topic": "Education",
+      "type": "Discussion",
+      "question": "Private schools provide better education than public schools. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 9,
+      "topic": "Education",
+      "type": "Opinion",
+      "question": "Children should start school at a very early age. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 10,
+      "topic": "Education",
+      "type": "Opinion",
+      "question": "University degrees are less important today. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 11,
+      "topic": "Education",
+      "type": "Advantages/Disadvantages",
+      "question": "Students should study abroad. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 12,
+      "topic": "Education",
+      "type": "Advantages/Disadvantages",
+      "question": "Vocational training is better than university education. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 13,
+      "topic": "Education",
+      "type": "Opinion",
+      "question": "Schools should teach financial management. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 14,
+      "topic": "Education",
+      "type": "Discussion",
+      "question": "Technology improves education. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 15,
+      "topic": "Education",
+      "type": "Advantages/Disadvantages",
+      "question": "Single-sex schools are better. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 16,
+      "topic": "Education",
+      "type": "Problem/Solution",
+      "question": "Class size affects learning outcomes. Discuss both views.",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 17,
+      "topic": "Education",
+      "type": "Discussion",
+      "question": "Students should choose their own subjects. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 18,
+      "topic": "Education",
+      "type": "Advantages/Disadvantages",
+      "question": "Education should be free at all levels. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 19,
+      "topic": "Education",
+      "type": "Advantages/Disadvantages",
+      "question": "Teachers should use more technology in class. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 20,
+      "topic": "Education",
+      "type": "Problem/Solution",
+      "question": "Parents should be involved in education. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 21,
+      "topic": "Education",
+      "type": "Opinion",
+      "question": "School uniforms should be mandatory. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 22,
+      "topic": "Education",
+      "type": "Advantages/Disadvantages",
+      "question": "Discipline is the most important aspect of education. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 23,
+      "topic": "Education",
+      "type": "Opinion",
+      "question": "Students learn more outside classroom. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 24,
+      "topic": "Education",
+      "type": "Discussion",
+      "question": "Higher education should be limited to the best students. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 25,
+      "topic": "Education",
+      "type": "Advantages/Disadvantages",
+      "question": "Arts subjects are less important than science. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 26,
+      "topic": "Environment",
+      "type": "Advantages/Disadvantages",
+      "question": "Air pollution is a serious issue. What are the causes and solutions?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 27,
+      "topic": "Environment",
+      "type": "Discussion",
+      "question": "Climate change is the biggest threat. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 28,
+      "topic": "Environment",
+      "type": "Advantages/Disadvantages",
+      "question": "Governments should invest more in renewable energy. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 29,
+      "topic": "Environment",
+      "type": "Advantages/Disadvantages",
+      "question": "Plastic waste should be banned. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 30,
+      "topic": "Environment",
+      "type": "Discussion",
+      "question": "People should use public transport. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 31,
+      "topic": "Environment",
+      "type": "Problem/Solution",
+      "question": "Environmental protection is more important than economic growth. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 32,
+      "topic": "Environment",
+      "type": "Advantages/Disadvantages",
+      "question": "Wildlife conservation is essential. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 33,
+      "topic": "Environment",
+      "type": "Opinion",
+      "question": "Urbanization harms the environment. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 34,
+      "topic": "Environment",
+      "type": "Opinion",
+      "question": "Individuals can do little to protect environment. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 35,
+      "topic": "Environment",
+      "type": "Problem/Solution",
+      "question": "Companies should be responsible for pollution. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 36,
+      "topic": "Environment",
+      "type": "Discussion",
+      "question": "Global warming requires international cooperation. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 37,
+      "topic": "Environment",
+      "type": "Discussion",
+      "question": "Recycling is the best solution. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 38,
+      "topic": "Environment",
+      "type": "Advantages/Disadvantages",
+      "question": "Fossil fuels should be replaced. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 39,
+      "topic": "Environment",
+      "type": "Problem/Solution",
+      "question": "Green spaces should be expanded in cities. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 40,
+      "topic": "Environment",
+      "type": "Opinion",
+      "question": "Overpopulation causes environmental issues. Discuss both views.",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 41,
+      "topic": "Environment",
+      "type": "Opinion",
+      "question": "Tourism harms environment. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 42,
+      "topic": "Environment",
+      "type": "Discussion",
+      "question": "Water shortage is a global issue. What are solutions?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 43,
+      "topic": "Environment",
+      "type": "Opinion",
+      "question": "Environmental education is necessary. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 44,
+      "topic": "Environment",
+      "type": "Advantages/Disadvantages",
+      "question": "Noise pollution is a major issue. Discuss.",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 45,
+      "topic": "Environment",
+      "type": "Problem/Solution",
+      "question": "Deforestation should be stopped. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 46,
+      "topic": "Environment",
+      "type": "Opinion",
+      "question": "Electric vehicles are the future. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 47,
+      "topic": "Environment",
+      "type": "Opinion",
+      "question": "Governments should tax pollution. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 48,
+      "topic": "Environment",
+      "type": "Advantages/Disadvantages",
+      "question": "Climate policies should be stricter. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 49,
+      "topic": "Environment",
+      "type": "Advantages/Disadvantages",
+      "question": "Natural resources should be shared globally. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 50,
+      "topic": "Environment",
+      "type": "Problem/Solution",
+      "question": "Animal testing should be banned. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 51,
+      "topic": "Technology",
+      "type": "Opinion",
+      "question": "Artificial intelligence will replace many jobs. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 52,
+      "topic": "Technology",
+      "type": "Advantages/Disadvantages",
+      "question": "Internet has improved people's lives. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 53,
+      "topic": "Technology",
+      "type": "Problem/Solution",
+      "question": "Social media does more harm than good. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 54,
+      "topic": "Technology",
+      "type": "Problem/Solution",
+      "question": "Technology makes people less social. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 55,
+      "topic": "Technology",
+      "type": "Opinion",
+      "question": "Online shopping will replace traditional stores. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 56,
+      "topic": "Technology",
+      "type": "Discussion",
+      "question": "Children should not use smartphones. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 57,
+      "topic": "Technology",
+      "type": "Advantages/Disadvantages",
+      "question": "Technology improves education. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 58,
+      "topic": "Technology",
+      "type": "Discussion",
+      "question": "Automation is beneficial for society. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 59,
+      "topic": "Technology",
+      "type": "Advantages/Disadvantages",
+      "question": "Data privacy is a major concern. Discuss.",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 60,
+      "topic": "Technology",
+      "type": "Advantages/Disadvantages",
+      "question": "Technology increases productivity. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 61,
+      "topic": "Technology",
+      "type": "Advantages/Disadvantages",
+      "question": "People rely too much on technology. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 62,
+      "topic": "Technology",
+      "type": "Advantages/Disadvantages",
+      "question": "Robots should replace humans in dangerous jobs. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 63,
+      "topic": "Technology",
+      "type": "Problem/Solution",
+      "question": "Technology causes unemployment. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 64,
+      "topic": "Technology",
+      "type": "Advantages/Disadvantages",
+      "question": "Internet is the best source of information. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 65,
+      "topic": "Technology",
+      "type": "Advantages/Disadvantages",
+      "question": "Virtual reality will dominate entertainment. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 66,
+      "topic": "Technology",
+      "type": "Opinion",
+      "question": "Technology harms children's development. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 67,
+      "topic": "Technology",
+      "type": "Opinion",
+      "question": "Digital communication replaces face-to-face interaction. Discuss.",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 68,
+      "topic": "Technology",
+      "type": "Advantages/Disadvantages",
+      "question": "Cybercrime is increasing. What are solutions?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 69,
+      "topic": "Technology",
+      "type": "Discussion",
+      "question": "Online education is the future. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 70,
+      "topic": "Technology",
+      "type": "Discussion",
+      "question": "Technology creates inequality. Discuss both views.",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 71,
+      "topic": "Technology",
+      "type": "Problem/Solution",
+      "question": "AI should be regulated. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 72,
+      "topic": "Technology",
+      "type": "Advantages/Disadvantages",
+      "question": "People spend too much time online. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 73,
+      "topic": "Technology",
+      "type": "Discussion",
+      "question": "Technology improves healthcare. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 74,
+      "topic": "Technology",
+      "type": "Problem/Solution",
+      "question": "Self-driving cars are safe. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 75,
+      "topic": "Technology",
+      "type": "Opinion",
+      "question": "Social media influencers impact society. Discuss.",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 76,
+      "topic": "Society",
+      "type": "Opinion",
+      "question": "Social media has a negative impact on society. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 77,
+      "topic": "Society",
+      "type": "Problem/Solution",
+      "question": "Crime rates are increasing. What are causes and solutions?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 78,
+      "topic": "Society",
+      "type": "Discussion",
+      "question": "Governments should spend more on public services. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 79,
+      "topic": "Society",
+      "type": "Advantages/Disadvantages",
+      "question": "Urbanization improves quality of life. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 80,
+      "topic": "Society",
+      "type": "Opinion",
+      "question": "Work-life balance is important. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 81,
+      "topic": "Society",
+      "type": "Advantages/Disadvantages",
+      "question": "Salary is more important than job satisfaction. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 82,
+      "topic": "Society",
+      "type": "Opinion",
+      "question": "Globalization has positive effects. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 83,
+      "topic": "Society",
+      "type": "Advantages/Disadvantages",
+      "question": "Aging population is a problem. Discuss.",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 84,
+      "topic": "Society",
+      "type": "Advantages/Disadvantages",
+      "question": "People should live in cities rather than countryside. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 85,
+      "topic": "Society",
+      "type": "Problem/Solution",
+      "question": "Celebrities influence young people negatively. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 86,
+      "topic": "Society",
+      "type": "Problem/Solution",
+      "question": "Public transport should be free. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 87,
+      "topic": "Society",
+      "type": "Advantages/Disadvantages",
+      "question": "Violent video games cause aggression. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 88,
+      "topic": "Society",
+      "type": "Advantages/Disadvantages",
+      "question": "Cultural traditions are being lost. Discuss.",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 89,
+      "topic": "Society",
+      "type": "Opinion",
+      "question": "Advertising affects people's decisions. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 90,
+      "topic": "Society",
+      "type": "Opinion",
+      "question": "Governments should control media. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 91,
+      "topic": "Society",
+      "type": "Opinion",
+      "question": "Migration benefits society. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 92,
+      "topic": "Society",
+      "type": "Opinion",
+      "question": "Income inequality is increasing. What are solutions?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 93,
+      "topic": "Society",
+      "type": "Advantages/Disadvantages",
+      "question": "People should volunteer more. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 94,
+      "topic": "Society",
+      "type": "Problem/Solution",
+      "question": "Technology reduces human interaction. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 95,
+      "topic": "Society",
+      "type": "Problem/Solution",
+      "question": "Public health is government responsibility. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 96,
+      "topic": "Society",
+      "type": "Opinion",
+      "question": "Gender equality has been achieved. Discuss.",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 97,
+      "topic": "Society",
+      "type": "Discussion",
+      "question": "Youth should respect elders. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 98,
+      "topic": "Society",
+      "type": "Opinion",
+      "question": "Modern lifestyle causes stress. Discuss.",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "id": 99,
+      "topic": "Society",
+      "type": "Advantages/Disadvantages",
+      "question": "Housing problems are increasing. What are solutions?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    },
+    {
+      "id": 100,
+      "topic": "Society",
+      "type": "Advantages/Disadvantages",
+      "question": "People are becoming more selfish. Do you agree or disagree?",
+      "ideas": {
+        "agree": [
+          "Key benefit 1",
+          "Key benefit 2",
+          "Key benefit 3"
+        ],
+        "disagree": [
+          "Key drawback 1",
+          "Key drawback 2",
+          "Key drawback 3"
+        ]
+      },
+      "vocabulary": [
+        "relevant term",
+        "key concept",
+        "advanced phrase"
+      ],
+      "band_level": "6.5-7.5",
+      "tags": []
+    }
+  ]
+}
