@@ -2,6 +2,181 @@
   "version": 1,
   "data": [
     {
+      "id": 1,
+      "topic": "Education",
+      "type": "Opinion",
+      "question": "Schools should focus more on practical skills than theoretical knowledge. Do you agree or disagree?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Practical skills prepare students for real-world jobs", "Improves problem-solving abilities", "Hands-on experience increases engagement"],
+            "disagree": ["Theoretical knowledge provides a strong foundation", "Some professions require deep theory", "Focusing only on skills may reduce long-term learning"]
+          },
+          "vocabulary": ["practical skills", "theoretical knowledge", "hands-on experience"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Combines theory and practice for balanced learning", "Prepares students for employment", "Enhances critical thinking"],
+            "disagree": ["Deep understanding of theory is essential", "Too much focus on practice reduces academic rigor", "May not suit all learning styles"]
+          },
+          "vocabulary": ["critical thinking", "academic rigor", "balanced learning"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Integration of practical skills accelerates innovation", "Students gain transferable skills", "Bridges gap between education and labor market"],
+            "disagree": ["High resource requirement for practical labs", "Risk of superficial skill acquisition", "May reduce time for advanced theory"]
+          },
+          "vocabulary": ["transferable skills", "innovation", "labor market"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "topic": "Education",
+      "type": "Discussion",
+      "question": "Homework is necessary for children. Discuss both views.",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Reinforces classroom learning", "Develops discipline", "Helps exam preparation"],
+            "disagree": ["Can cause stress and fatigue", "Reduces time for hobbies", "May lower motivation"]
+          },
+          "vocabulary": ["reinforce", "discipline", "motivation"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Supports independent learning", "Encourages responsibility", "Enhances retention of knowledge"],
+            "disagree": ["Excessive homework affects mental health", "Limits creativity and play", "May increase family stress"]
+          },
+          "vocabulary": ["retention", "independent learning", "responsibility"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Homework can consolidate skills effectively", "Encourages lifelong learning habits", "Allows tailored learning reinforcement"],
+            "disagree": ["Overloading students can reduce efficiency", "Risk of diminishing intrinsic motivation", "May exacerbate social inequality"]
+          },
+          "vocabulary": ["lifelong learning", "intrinsic motivation", "tailored learning"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "topic": "Environment",
+      "type": "Problem/Solution",
+      "question": "Air pollution is a serious problem in many cities. What are the causes and solutions?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Vehicle emissions are a major cause", "Industrial waste contributes heavily", "Urbanization increases energy consumption"],
+            "disagree": ["Promote public transport", "Use renewable energy", "Implement stricter regulations"]
+          },
+          "vocabulary": ["emissions", "renewable energy", "urbanization"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Transport and factories are key sources", "Deforestation worsens pollution", "Overpopulation increases consumption"],
+            "disagree": ["Invest in green technology", "Raise public awareness", "Government policies can regulate emissions"]
+          },
+          "vocabulary": ["deforestation", "green technology", "regulate emissions"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Industrialization and urban growth accelerate air pollution", "High energy consumption exacerbates the issue", "Climate change amplifies effects"],
+            "disagree": ["Implement smart city planning", "Incentivize clean energy adoption", "Strengthen international environmental agreements"]
+          },
+          "vocabulary": ["smart city", "incentivize", "environmental agreements"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "topic": "Technology",
+      "type": "Opinion",
+      "question": "Technology makes people less social. Do you agree or disagree?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["People spend more time online than with friends", "Face-to-face communication is decreasing", "Over-reliance on technology reduces social skills"],
+            "disagree": ["Technology connects people globally", "Social media maintains long-distance relationships", "Online communities provide support"]
+          },
+          "vocabulary": ["over-reliance", "interaction", "social skills"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Technology can lead to superficial interactions", "Dependence on devices reduces personal communication", "Social media may create isolation"],
+            "disagree": ["Enables global collaboration", "Supports learning communities", "Facilitates communication in emergencies"]
+          },
+          "vocabulary": ["superficial interactions", "collaboration", "learning communities"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Excessive digital communication weakens social bonds", "Online overuse can harm mental well-being", "Reduced empathy due to virtual interactions"],
+            "disagree": ["Promotes cultural exchange", "Strengthens professional networking", "Offers social inclusion for marginalized groups"]
+          },
+          "vocabulary": ["empathy", "cultural exchange", "social inclusion"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "topic": "Health",
+      "type": "Advantages/Disadvantages",
+      "question": "Fast food is increasingly popular. What are the advantages and disadvantages?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Convenient and quick", "Affordable for many people", "Widely available in cities"],
+            "disagree": ["Leads to unhealthy diet", "Lacks essential nutrients", "Can cause long-term health problems"]
+          },
+          "vocabulary": ["convenient", "obesity", "nutrients"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Saves time for busy people", "Easy to access in urban areas", "Provides variety of flavors"],
+            "disagree": ["High in calories and fat", "Contributes to lifestyle diseases", "May reduce cooking skills"]
+          },
+          "vocabulary": ["calories", "lifestyle diseases", "urban areas"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Efficient meal option", "Supports fast-paced life", "Affordable compared to dining out"],
+            "disagree": ["Long-term health risks like obesity and heart disease", "May encourage poor dietary habits", "Low nutritional value"]
+          },
+          "vocabulary": ["dietary habits", "nutritional value", "heart disease"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
       "id": 6,
       "topic": "Society",
       "type": "Discussion",
