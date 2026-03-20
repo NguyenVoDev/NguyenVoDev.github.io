@@ -3500,6 +3500,356 @@
           "tags": []
         }
       ]
+    },
+    {
+      "id": 101,
+      "topic": "Education",
+      "type": "Opinion",
+      "question": "Students should be allowed to choose their own curriculum. Do you agree or disagree?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Increases motivation", "Encourages independence", "Focuses on interests"],
+            "disagree": ["May lack essential subjects", "Hard to standardize", "Can cause gaps in knowledge"]
+          },
+          "vocabulary": ["motivation", "independence", "curriculum"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Promotes self-directed learning", "Encourages student engagement", "Tailored learning paths"],
+            "disagree": ["Risk of missing core skills", "Difficult to assess consistently", "Potential knowledge gaps"]
+          },
+          "vocabulary": ["self-directed", "assess", "engagement"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Fosters autonomy", "Enhances student motivation", "Supports personalized learning"],
+            "disagree": ["Essential knowledge may be neglected", "Standard evaluation becomes challenging", "May lead to uneven skill development"]
+          },
+          "vocabulary": ["autonomy", "personalized", "development"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "topic": "Environment",
+      "type": "Discussion",
+      "question": "Should governments impose strict regulations on industrial pollution? Discuss both views.",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Protects environment", "Reduces health risks", "Preserves biodiversity"],
+            "disagree": ["Increases production costs", "May reduce employment", "Could discourage investment"]
+          },
+          "vocabulary": ["biodiversity", "regulations", "investment"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Lowers environmental degradation", "Protects public health", "Ensures sustainable practices"],
+            "disagree": ["Higher operating costs for industries", "Potential job losses", "Economic growth may slow"]
+          },
+          "vocabulary": ["degradation", "sustainable", "operating costs"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Minimizes environmental impact", "Safeguards human health", "Promotes ecological sustainability"],
+            "disagree": ["May hinder industrial growth", "Job market could be affected", "Challenges in economic competitiveness"]
+          },
+          "vocabulary": ["ecological", "competitiveness", "safeguards"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "topic": "Technology",
+      "type": "Advantages/Disadvantages",
+      "question": "Online learning platforms improve education. What are the advantages and disadvantages?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Accessible anywhere", "Flexible schedule", "Wide range of resources"],
+            "disagree": ["Requires self-discipline", "Limited social interaction", "Technical issues"]
+          },
+          "vocabulary": ["resources", "accessible", "discipline"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Reduces geographic barriers", "Flexible learning pace", "Abundant learning materials"],
+            "disagree": ["Decreased personal interaction", "Students need motivation", "Dependent on technology"]
+          },
+          "vocabulary": ["geographic", "abundant", "dependent"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Expands access to education", "Encourages self-paced study", "Provides diverse learning resources"],
+            "disagree": ["Less interpersonal engagement", "Requires high self-regulation", "Technical limitations may affect learning"]
+          },
+          "vocabulary": ["self-regulation", "interpersonal", "limitations"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "topic": "Health",
+      "type": "Problem/Solution",
+      "question": "Obesity is increasing among children. What are the causes and solutions?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["High-calorie diet", "Lack of exercise", "Sedentary lifestyle"],
+            "disagree": ["Promote physical activity", "Healthy diet education", "Regulate junk food advertising"]
+          },
+          "vocabulary": ["sedentary", "calorie", "regulate"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Overeating unhealthy foods", "Insufficient physical activity", "Screen time and inactivity"],
+            "disagree": ["School exercise programs", "Nutrition education", "Limit unhealthy food exposure"]
+          },
+          "vocabulary": ["nutrition", "inactivity", "exposure"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Unhealthy eating habits", "Low physical engagement", "Sedentary behavior"],
+            "disagree": ["Implement physical education", "Promote balanced diets", "Restrict access to junk food"]
+          },
+          "vocabulary": ["balanced", "behavior", "implement"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "topic": "Society",
+      "type": "Opinion",
+      "question": "People should volunteer more often. Do you agree or disagree?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Helps communities", "Develops skills", "Encourages empathy"],
+            "disagree": ["Takes time away from work", "Not everyone can participate", "May require resources"]
+          },
+          "vocabulary": ["empathy", "communities", "participate"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Promotes social welfare", "Enhances personal growth", "Fosters empathy"],
+            "disagree": ["Time constraints", "Limited accessibility", "Needs financial support for volunteering"]
+          },
+          "vocabulary": ["welfare", "fosters", "constraints"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Strengthens communities", "Develops transferable skills", "Cultivates empathy and social responsibility"],
+            "disagree": ["Time commitment may be high", "Not universally feasible", "May need material resources"]
+          },
+          "vocabulary": ["transferable", "cultivates", "commitment"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "topic": "Work",
+      "type": "Discussion",
+      "question": "Working long hours improves productivity. Discuss both views.",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["More output", "Deadline achievement", "Higher income"],
+            "disagree": ["Risk of burnout", "Reduced work-life balance", "Lower efficiency over time"]
+          },
+          "vocabulary": ["burnout", "deadline", "efficiency"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Increases task completion", "Potential career advancement", "Higher earnings"],
+            "disagree": ["Stress and fatigue", "Less personal time", "Productivity may decline"]
+          },
+          "vocabulary": ["fatigue", "advancement", "decline"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Boosts output in short term", "May improve skill development", "Potential financial benefits"],
+            "disagree": ["Risk of chronic stress", "Disrupts work-life balance", "Diminishing returns on productivity"]
+          },
+          "vocabulary": ["chronic", "diminishing", "benefits"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "topic": "Education",
+      "type": "Advantages/Disadvantages",
+      "question": "Extracurricular activities improve student performance. What are the advantages and disadvantages?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Enhances skills", "Promotes teamwork", "Encourages creativity"],
+            "disagree": ["Time-consuming", "Extra workload", "May distract from studies"]
+          },
+          "vocabulary": ["teamwork", "creativity", "workload"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Builds interpersonal skills", "Encourages collaboration", "Fosters creative thinking"],
+            "disagree": ["Requires time management", "Adds pressure", "May reduce academic focus"]
+          },
+          "vocabulary": ["collaboration", "pressure", "interpersonal"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Develops soft skills", "Promotes teamwork", "Enhances problem-solving abilities"],
+            "disagree": ["Time commitment required", "Potential distraction from academics", "Increased stress"]
+          },
+          "vocabulary": ["soft skills", "problem-solving", "stress"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "topic": "Environment",
+      "type": "Opinion",
+      "question": "Plastic bags should be banned. Do you agree or disagree?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Reduces pollution", "Protects wildlife", "Encourages alternatives"],
+            "disagree": ["Inconvenient for consumers", "Higher costs", "Alternatives may be less practical"]
+          },
+          "vocabulary": ["pollution", "alternatives", "wildlife"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Minimizes environmental damage", "Safeguards animals", "Promotes sustainable options"],
+            "disagree": ["Consumer inconvenience", "Increased expenses", "Practical challenges with alternatives"]
+          },
+          "vocabulary": ["safeguards", "sustainable", "practical"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Reduces plastic waste", "Protects ecosystems", "Encourages eco-friendly habits"],
+            "disagree": ["Causes minor inconvenience", "May increase costs", "Alternatives are sometimes less efficient"]
+          },
+          "vocabulary": ["ecosystems", "efficient", "habits"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "topic": "Technology",
+      "type": "Problem/Solution",
+      "question": "Cyberbullying is a growing issue. What are the causes and solutions?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Social media anonymity", "Peer pressure", "Lack of awareness"],
+            "disagree": ["Implement stricter rules", "Educate users", "Provide support for victims"]
+          },
+          "vocabulary": ["anonymity", "awareness", "implement"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Online anonymity", "Peer influence", "Low digital literacy"],
+            "disagree": ["Legislation and regulations", "User education programs", "Counseling for victims"]
+          },
+          "vocabulary": ["legislation", "counseling", "literacy"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Anonymity online facilitates harassment", "Social pressures contribute", "Limited awareness of consequences"],
+            "disagree": ["Enforce cyber laws", "Raise digital literacy", "Support affected individuals"]
+          },
+          "vocabulary": ["harassment", "consequences", "enforce"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "topic": "Health",
+      "type": "Opinion",
+      "question": "Government should fund public gyms. Do you agree or disagree?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Encourages exercise", "Promotes health", "Accessible for all"],
+            "disagree": ["Costs taxpayers", "Maintenance issues", "People may not use them"]
+          },
+          "vocabulary": ["taxpayers", "maintenance", "accessible"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Increases physical activity", "Improves public health", "Inclusive access"],
+            "disagree": ["Budget constraints", "Upkeep challenges", "Low participation possible"]
+          },
+          "vocabulary": ["inclusive", "constraints", "upkeep"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Encourages healthy lifestyles", "Enhances community well-being", "Affordable fitness access"],
+            "disagree": ["Financial burden on government", "Requires regular maintenance", "Limited engagement by citizens"]
+          },
+          "vocabulary": ["well-being", "affordable", "engagement"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
     }
   ]
 }
