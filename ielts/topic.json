@@ -4373,6 +4373,181 @@
           "tags": []
         }
       ]
+    },
+    {
+      "id": 126,
+      "topic": "Technology",
+      "type": "Problem/Solution",
+      "question": "Many people spend too much time on digital devices. What are the causes and solutions?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Addiction to social media", "Work and study requirements", "Entertainment availability"],
+            "disagree": ["Set daily limits", "Encourage outdoor activities", "Digital detox programs"]
+          },
+          "vocabulary": ["addiction", "encourage", "detox"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Excessive social media usage", "Job/study obligations", "Easy access to digital entertainment"],
+            "disagree": ["Time management plans", "Promote physical activities", "Technology-free hours"]
+          },
+          "vocabulary": ["promote", "obligations", "excessive"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Overuse of digital devices due to social media and work demands", "Entertainment on demand"],
+            "disagree": ["Implement screen-time limits", "Encourage offline hobbies", "Organize digital-free days"]
+          },
+          "vocabulary": ["offline", "implement", "organize"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "topic": "Health",
+      "type": "Advantages/Disadvantages",
+      "question": "Regular exercise is essential for a healthy life. What are the advantages and disadvantages?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Improves fitness", "Reduces disease risk", "Boosts mental health"],
+            "disagree": ["Time-consuming", "Requires discipline", "Risk of injury"]
+          },
+          "vocabulary": ["fitness", "discipline", "injury"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Enhances physical health", "Prevents illnesses", "Improves mood and mental state"],
+            "disagree": ["Takes time from other tasks", "Requires regular commitment", "Potential for accidents"]
+          },
+          "vocabulary": ["illnesses", "commitment", "accidents"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Promotes cardiovascular and muscular health", "Reduces chronic disease risks", "Supports mental well-being"],
+            "disagree": ["Time-intensive", "Consistency challenges", "Possibility of injuries"]
+          },
+          "vocabulary": ["cardiovascular", "consistency", "well-being"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "topic": "Society",
+      "type": "Discussion",
+      "question": "Should governments spend more on public transport than roads? Discuss both views.",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Reduces traffic congestion", "Environmentally friendly", "Affordable for citizens"],
+            "disagree": ["Roads are essential for goods transport", "Helps rural areas", "Supports emergency services"]
+          },
+          "vocabulary": ["congestion", "affordable", "emergency"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Promotes sustainable travel", "Eases urban traffic", "Cost-effective for commuters"],
+            "disagree": ["Roads necessary for logistics", "Connects remote areas", "Supports quick emergency response"]
+          },
+          "vocabulary": ["sustainable", "logistics", "commuters"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Investing in public transport reduces pollution", "Alleviates city traffic", "Accessible to wider population"],
+            "disagree": ["Road infrastructure supports commerce", "Essential for rural connectivity", "Enables emergency operations"]
+          },
+          "vocabulary": ["infrastructure", "alleviates", "commerce"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "topic": "Education",
+      "type": "Advantages/Disadvantages",
+      "question": "Online learning is better than classroom learning. What are the advantages and disadvantages?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["Flexible schedule", "Accessible anywhere", "Cost-effective"],
+            "disagree": ["Less interaction", "Requires self-discipline", "Technical issues"]
+          },
+          "vocabulary": ["accessible", "discipline", "technical"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Convenient timing", "Remote access", "Lower costs"],
+            "disagree": ["Reduced face-to-face contact", "Self-motivation needed", "Internet dependency"]
+          },
+          "vocabulary": ["remote", "motivation", "dependency"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Flexible and accessible learning", "Saves time and travel costs", "Allows personalized pace"],
+            "disagree": ["Limited social interaction", "Self-discipline required", "Technical difficulties may occur"]
+          },
+          "vocabulary": ["personalized", "difficulties", "interaction"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "topic": "Work",
+      "type": "Problem/Solution",
+      "question": "Many employees experience stress at work. What are the causes and solutions?",
+      "ideas_list": [
+        {
+          "ideas": {
+            "agree": ["High workload", "Tight deadlines", "Lack of support"],
+            "disagree": ["Better time management", "Supportive environment", "Regular breaks"]
+          },
+          "vocabulary": ["workload", "deadlines", "supportive"],
+          "band_level": "5-6",
+          "tags": ["hot"]
+        },
+        {
+          "ideas": {
+            "agree": ["Excessive tasks", "Pressure from deadlines", "Limited managerial support"],
+            "disagree": ["Implement time management strategies", "Provide team support", "Encourage rest periods"]
+          },
+          "vocabulary": ["implement", "strategies", "periods"],
+          "band_level": "6.5-7.5",
+          "tags": []
+        },
+        {
+          "ideas": {
+            "agree": ["Overwork and high expectations", "Stress from tight schedules", "Insufficient guidance"],
+            "disagree": ["Introduce workload balance policies", "Offer mentoring and support", "Schedule regular breaks"]
+          },
+          "vocabulary": ["insufficient", "mentoring", "policies"],
+          "band_level": "7.5-8.5",
+          "tags": []
+        }
+      ]
     }
 
   ]
