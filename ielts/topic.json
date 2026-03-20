@@ -3870,334 +3870,336 @@
           "ideas": {
             "agree": ["Easier access to amenities", "Greater career opportunities", "Better social services"],
             "disagree": ["Costly lifestyle", "Environmental pollution", "Less privacy"],
-          "vocabulary": ["amenities", "opportunities", "privacy"],
-          "band_level": "6.5-7.5",
-          "tags": []
-        },
+            "vocabulary": ["amenities", "opportunities", "privacy"],
+            "band_level": "6.5-7.5",
+            "tags": []
+          }},
         {
           "ideas": {
             "agree": ["Urban areas offer more jobs and facilities", "Access to high-quality healthcare and education", "Cultural and social activities abound"],
             "disagree": ["Expensive living", "Environmental and noise pollution", "Limited personal space"],
-          "vocabulary": ["facilities", "cultural", "abound"],
-          "band_level": "7.5-8.5",
-          "tags": []
+            "vocabulary": ["facilities", "cultural", "abound"],
+            "band_level": "7.5-8.5",
+            "tags": []
+          }}
+          ]
+        },
+        {
+          "id": 112,
+          "topic": "Work",
+          "type": "Opinion",
+          "question": "Employees should be rewarded based on performance. Do you agree or disagree?",
+          "ideas_list": [
+            {
+              "ideas": {
+                "agree": ["Motivates employees", "Encourages productivity", "Rewards effort"],
+                "disagree": ["May cause stress", "Unfair if not measured properly", "Can create competition"]
+              },
+              "vocabulary": ["motivate", "productivity", "competition"],
+              "band_level": "5-6",
+              "tags": ["hot"]
+            },
+            {
+              "ideas": {
+                "agree": ["Boosts motivation", "Improves efficiency", "Acknowledges hard work"],
+                "disagree": ["Pressure may increase", "Subjective evaluations", "May harm teamwork"]
+              },
+              "vocabulary": ["efficiency", "subjective", "teamwork"],
+              "band_level": "6.5-7.5",
+              "tags": []
+            },
+            {
+              "ideas": {
+                "agree": ["Incentivizes high performance", "Promotes accountability", "Recognizes contribution"],
+                "disagree": ["Could increase workplace stress", "Evaluation might be biased", "Undermines collaboration"]
+              },
+              "vocabulary": ["incentivizes", "accountability", "collaboration"],
+              "band_level": "7.5-8.5",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": 113,
+          "topic": "Education",
+          "type": "Problem/Solution",
+          "question": "Many students struggle with learning foreign languages. What are the causes and solutions?",
+          "ideas_list": [
+            {
+              "ideas": {
+                "agree": ["Lack of practice", "Insufficient teaching methods", "Low motivation"],
+                "disagree": ["Use interactive apps", "Increase language exposure", "Provide motivation and support"]
+              },
+              "vocabulary": ["exposure", "interactive", "motivation"],
+              "band_level": "5-6",
+              "tags": ["hot"]
+            },
+            {
+              "ideas": {
+                "agree": ["Limited practice opportunities", "Ineffective teaching techniques", "Disinterest or lack of motivation"],
+                "disagree": ["Language immersion programs", "Interactive learning tools", "Encourage interest and practice"]
+              },
+              "vocabulary": ["immersion", "techniques", "encourage"],
+              "band_level": "6.5-7.5",
+              "tags": []
+            },
+            {
+              "ideas": {
+                "agree": ["Inadequate practice and exposure", "Traditional methods may be unengaging", "Low intrinsic motivation"],
+                "disagree": ["Integrate multimedia resources", "Encourage daily usage", "Motivate through rewards and challenges"]
+              },
+              "vocabulary": ["intrinsic", "multimedia", "integrate"],
+              "band_level": "7.5-8.5",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": 114,
+          "topic": "Environment",
+          "type": "Advantages/Disadvantages",
+          "question": "Using renewable energy is beneficial. What are the advantages and disadvantages?",
+          "ideas_list": [
+            {
+              "ideas": {
+                "agree": ["Reduces pollution", "Sustainable", "Conserves resources"],
+                "disagree": ["High installation cost", "Dependent on weather", "Limited availability"]
+              },
+              "vocabulary": ["sustainable", "installation", "resources"],
+              "band_level": "5-6",
+              "tags": ["hot"]
+            },
+            {
+              "ideas": {
+                "agree": ["Decreases environmental damage", "Long-term sustainability", "Conserves natural resources"],
+                "disagree": ["Expensive setup", "Weather-dependent efficiency", "Limited capacity"]
+              },
+              "vocabulary": ["capacity", "efficiency", "setup"],
+              "band_level": "6.5-7.5",
+              "tags": []
+            },
+            {
+              "ideas": {
+                "agree": ["Environmentally friendly", "Sustainable energy source", "Reduces reliance on fossil fuels"],
+                "disagree": ["High upfront cost", "Intermittent supply issues", "Technology limitations"]
+              },
+              "vocabulary": ["intermittent", "fossil fuels", "upfront"],
+              "band_level": "7.5-8.5",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": 115,
+          "topic": "Technology",
+          "type": "Discussion",
+          "question": "Is artificial intelligence more beneficial or harmful to society? Discuss both views.",
+          "ideas_list": [
+            {
+              "ideas": {
+                "agree": ["Automates tasks", "Improves efficiency", "Can solve complex problems"],
+                "disagree": ["Job losses", "Privacy concerns", "Can be misused"]
+              },
+              "vocabulary": ["automates", "efficiency", "misused"],
+              "band_level": "5-6",
+              "tags": ["hot"]
+            },
+            {
+              "ideas": {
+                "agree": ["Enhances productivity", "Facilitates innovation", "Solves complex problems"],
+                "disagree": ["Potential unemployment", "Data privacy issues", "Risk of unethical use"]
+              },
+              "vocabulary": ["facilitates", "unethical", "privacy"],
+              "band_level": "6.5-7.5",
+              "tags": []
+            },
+            {
+              "ideas": {
+                "agree": ["Boosts efficiency and problem-solving", "Drives technological progress", "Supports innovation"],
+                "disagree": ["May displace workers", "Raises ethical concerns", "Potential for misuse and bias"]
+              },
+              "vocabulary": ["displace", "ethical", "bias"],
+              "band_level": "7.5-8.5",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": 116,
+          "topic": "Health",
+          "type": "Opinion",
+          "question": "Fast food should be heavily taxed. Do you agree or disagree?",
+          "ideas_list": [
+            {
+              "ideas": {
+                "agree": ["Reduces consumption", "Promotes healthier choices", "Generates revenue for health programs"],
+                "disagree": ["Unfair to low-income people", "Could harm businesses", "Might encourage illegal alternatives"]
+              },
+              "vocabulary": ["revenue", "consumption", "alternatives"],
+              "band_level": "5-6",
+              "tags": ["hot"]
+            },
+            {
+              "ideas": {
+                "agree": ["Discourages unhealthy eating", "Supports public health", "Provides government funding"],
+                "disagree": ["Disproportionately affects the poor", "Potential economic impact", "Risk of black market"]
+              },
+              "vocabulary": ["disproportionately", "impact", "black market"],
+              "band_level": "6.5-7.5",
+              "tags": []
+            },
+            {
+              "ideas": {
+                "agree": ["Encourages healthy diets", "Reduces obesity rates", "Funds health initiatives"],
+                "disagree": ["Inequitable for lower-income groups", "Economic drawbacks", "May lead to illicit trade"]
+              },
+              "vocabulary": ["initiatives", "obesity", "equitable"],
+              "band_level": "7.5-8.5",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": 117,
+          "topic": "Society",
+          "type": "Problem/Solution",
+          "question": "Homelessness is a growing problem. What are the causes and solutions?",
+          "ideas_list": [
+            {
+              "ideas": {
+                "agree": ["Unemployment", "High housing costs", "Family breakdown"],
+                "disagree": ["Provide affordable housing", "Job creation programs", "Social support services"]
+              },
+              "vocabulary": ["unemployment", "affordable", "services"],
+              "band_level": "5-6",
+              "tags": ["hot"]
+            },
+            {
+              "ideas": {
+                "agree": ["Joblessness", "Expensive accommodation", "Breakdown of family structures"],
+                "disagree": ["Government housing schemes", "Employment initiatives", "Welfare support"]
+              },
+              "vocabulary": ["schemes", "initiatives", "welfare"],
+              "band_level": "6.5-7.5",
+              "tags": []
+            },
+            {
+              "ideas": {
+                "agree": ["Lack of jobs", "Housing affordability crisis", "Family instability"],
+                "disagree": ["Invest in social housing", "Promote employment opportunities", "Provide comprehensive support services"]
+              },
+              "vocabulary": ["comprehensive", "instability", "invest"],
+              "band_level": "7.5-8.5",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": 118,
+          "topic": "Work",
+          "type": "Advantages/Disadvantages",
+          "question": "Teamwork is better than individual work. What are the advantages and disadvantages?",
+          "ideas_list": [
+            {
+              "ideas": {
+                "agree": ["Combines skills", "Encourages collaboration", "Generates diverse ideas"],
+                "disagree": ["Conflict between members", "Slower decisions", "Unequal contribution"]
+              },
+              "vocabulary": ["collaboration", "diverse", "conflict"],
+              "band_level": "5-6",
+              "tags": ["hot"]
+            },
+            {
+              "ideas": {
+                "agree": ["Synergy of skills", "Enhances cooperation", "Encourages creative solutions"],
+                "disagree": ["Disagreements may arise", "Decision-making can be slow", "Some members contribute less"]
+              },
+              "vocabulary": ["synergy", "cooperation", "disagreements"],
+              "band_level": "6.5-7.5",
+              "tags": []
+            },
+            {
+              "ideas": {
+                "agree": ["Promotes skill-sharing", "Improves collaborative problem solving", "Fosters creativity"],
+                "disagree": ["Potential interpersonal conflicts", "Slower consensus", "Unequal workload distribution"]
+              },
+              "vocabulary": ["consensus", "distribution", "interpersonal"],
+              "band_level": "7.5-8.5",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "topic": "Education",
+          "type": "Discussion",
+          "question": "Should schools focus more on practical skills than theoretical knowledge? Discuss both views.",
+          "ideas_list": [
+            {
+              "ideas": {
+                "agree": ["Prepares for real life", "Increases employability", "Engages students"],
+                "disagree": ["Theory is foundation", "Develops analytical skills", "Maintains academic rigor"]
+              },
+              "vocabulary": ["employability", "analytical", "rigor"],
+              "band_level": "5-6",
+              "tags": ["hot"]
+            },
+            {
+              "ideas": {
+                "agree": ["Practical skills enhance career readiness", "Improves student engagement", "Bridges education and work"],
+                "disagree": ["Theoretical knowledge supports reasoning", "Develops critical thinking", "Maintains curriculum standards"]
+              },
+              "vocabulary": ["readiness", "critical", "curriculum"],
+              "band_level": "6.5-7.5",
+              "tags": []
+            },
+            {
+              "ideas": {
+                "agree": ["Focus on real-world skills", "Boosts employability", "Encourages experiential learning"],
+                "disagree": ["Theory builds cognitive foundation", "Enhances problem-solving abilities", "Ensures academic standards"]
+              },
+              "vocabulary": ["experiential", "cognitive", "abilities"],
+              "band_level": "7.5-8.5",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "topic": "Environment",
+          "type": "Opinion",
+          "question": "Individuals should take responsibility for protecting the environment. Do you agree or disagree?",
+          "ideas_list": [
+            {
+              "ideas": {
+                "agree": ["Promotes sustainable habits", "Reduces pollution", "Encourages awareness"],
+                "disagree": ["Government should enforce laws", "Individuals may lack impact", "Some cannot afford eco-friendly options"]
+              },
+              "vocabulary": ["sustainable", "awareness", "enforce"],
+              "band_level": "5-6",
+              "tags": ["hot"]
+            },
+            {
+              "ideas": {
+                "agree": ["Fosters personal responsibility", "Helps preserve nature", "Increases environmental consciousness"],
+                "disagree": ["Policy enforcement needed", "Individual actions may be insufficient", "Eco-friendly products can be expensive"]
+              },
+              "vocabulary": ["consciousness", "preserve", "policy"],
+              "band_level": "6.5-7.5",
+              "tags": []
+            },
+            {
+              "ideas": {
+                "agree": ["Encourages sustainable living", "Reduces ecological footprint", "Raises environmental awareness"],
+                "disagree": ["Government regulations are crucial", "Individual efforts alone are limited", "Green alternatives may be costly"]
+              },
+              "vocabulary": ["footprint", "alternatives", "ecological"],
+              "band_level": "7.5-8.5",
+              "tags": []
+            }
+          ]
         }
-      ]
-    },
-    {
-      "id": 112,
-      "topic": "Work",
-      "type": "Opinion",
-      "question": "Employees should be rewarded based on performance. Do you agree or disagree?",
-      "ideas_list": [
-        {
-          "ideas": {
-            "agree": ["Motivates employees", "Encourages productivity", "Rewards effort"],
-            "disagree": ["May cause stress", "Unfair if not measured properly", "Can create competition"]
-          },
-          "vocabulary": ["motivate", "productivity", "competition"],
-          "band_level": "5-6",
-          "tags": ["hot"]
-        },
-        {
-          "ideas": {
-            "agree": ["Boosts motivation", "Improves efficiency", "Acknowledges hard work"],
-            "disagree": ["Pressure may increase", "Subjective evaluations", "May harm teamwork"]
-          },
-          "vocabulary": ["efficiency", "subjective", "teamwork"],
-          "band_level": "6.5-7.5",
-          "tags": []
-        },
-        {
-          "ideas": {
-            "agree": ["Incentivizes high performance", "Promotes accountability", "Recognizes contribution"],
-            "disagree": ["Could increase workplace stress", "Evaluation might be biased", "Undermines collaboration"]
-          },
-          "vocabulary": ["incentivizes", "accountability", "collaboration"],
-          "band_level": "7.5-8.5",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "id": 113,
-      "topic": "Education",
-      "type": "Problem/Solution",
-      "question": "Many students struggle with learning foreign languages. What are the causes and solutions?",
-      "ideas_list": [
-        {
-          "ideas": {
-            "agree": ["Lack of practice", "Insufficient teaching methods", "Low motivation"],
-            "disagree": ["Use interactive apps", "Increase language exposure", "Provide motivation and support"]
-          },
-          "vocabulary": ["exposure", "interactive", "motivation"],
-          "band_level": "5-6",
-          "tags": ["hot"]
-        },
-        {
-          "ideas": {
-            "agree": ["Limited practice opportunities", "Ineffective teaching techniques", "Disinterest or lack of motivation"],
-            "disagree": ["Language immersion programs", "Interactive learning tools", "Encourage interest and practice"]
-          },
-          "vocabulary": ["immersion", "techniques", "encourage"],
-          "band_level": "6.5-7.5",
-          "tags": []
-        },
-        {
-          "ideas": {
-            "agree": ["Inadequate practice and exposure", "Traditional methods may be unengaging", "Low intrinsic motivation"],
-            "disagree": ["Integrate multimedia resources", "Encourage daily usage", "Motivate through rewards and challenges"]
-          },
-          "vocabulary": ["intrinsic", "multimedia", "integrate"],
-          "band_level": "7.5-8.5",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "id": 114,
-      "topic": "Environment",
-      "type": "Advantages/Disadvantages",
-      "question": "Using renewable energy is beneficial. What are the advantages and disadvantages?",
-      "ideas_list": [
-        {
-          "ideas": {
-            "agree": ["Reduces pollution", "Sustainable", "Conserves resources"],
-            "disagree": ["High installation cost", "Dependent on weather", "Limited availability"]
-          },
-          "vocabulary": ["sustainable", "installation", "resources"],
-          "band_level": "5-6",
-          "tags": ["hot"]
-        },
-        {
-          "ideas": {
-            "agree": ["Decreases environmental damage", "Long-term sustainability", "Conserves natural resources"],
-            "disagree": ["Expensive setup", "Weather-dependent efficiency", "Limited capacity"]
-          },
-          "vocabulary": ["capacity", "efficiency", "setup"],
-          "band_level": "6.5-7.5",
-          "tags": []
-        },
-        {
-          "ideas": {
-            "agree": ["Environmentally friendly", "Sustainable energy source", "Reduces reliance on fossil fuels"],
-            "disagree": ["High upfront cost", "Intermittent supply issues", "Technology limitations"]
-          },
-          "vocabulary": ["intermittent", "fossil fuels", "upfront"],
-          "band_level": "7.5-8.5",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "id": 115,
-      "topic": "Technology",
-      "type": "Discussion",
-      "question": "Is artificial intelligence more beneficial or harmful to society? Discuss both views.",
-      "ideas_list": [
-        {
-          "ideas": {
-            "agree": ["Automates tasks", "Improves efficiency", "Can solve complex problems"],
-            "disagree": ["Job losses", "Privacy concerns", "Can be misused"]
-          },
-          "vocabulary": ["automates", "efficiency", "misused"],
-          "band_level": "5-6",
-          "tags": ["hot"]
-        },
-        {
-          "ideas": {
-            "agree": ["Enhances productivity", "Facilitates innovation", "Solves complex problems"],
-            "disagree": ["Potential unemployment", "Data privacy issues", "Risk of unethical use"]
-          },
-          "vocabulary": ["facilitates", "unethical", "privacy"],
-          "band_level": "6.5-7.5",
-          "tags": []
-        },
-        {
-          "ideas": {
-            "agree": ["Boosts efficiency and problem-solving", "Drives technological progress", "Supports innovation"],
-            "disagree": ["May displace workers", "Raises ethical concerns", "Potential for misuse and bias"]
-          },
-          "vocabulary": ["displace", "ethical", "bias"],
-          "band_level": "7.5-8.5",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "id": 116,
-      "topic": "Health",
-      "type": "Opinion",
-      "question": "Fast food should be heavily taxed. Do you agree or disagree?",
-      "ideas_list": [
-        {
-          "ideas": {
-            "agree": ["Reduces consumption", "Promotes healthier choices", "Generates revenue for health programs"],
-            "disagree": ["Unfair to low-income people", "Could harm businesses", "Might encourage illegal alternatives"]
-          },
-          "vocabulary": ["revenue", "consumption", "alternatives"],
-          "band_level": "5-6",
-          "tags": ["hot"]
-        },
-        {
-          "ideas": {
-            "agree": ["Discourages unhealthy eating", "Supports public health", "Provides government funding"],
-            "disagree": ["Disproportionately affects the poor", "Potential economic impact", "Risk of black market"]
-          },
-          "vocabulary": ["disproportionately", "impact", "black market"],
-          "band_level": "6.5-7.5",
-          "tags": []
-        },
-        {
-          "ideas": {
-            "agree": ["Encourages healthy diets", "Reduces obesity rates", "Funds health initiatives"],
-            "disagree": ["Inequitable for lower-income groups", "Economic drawbacks", "May lead to illicit trade"]
-          },
-          "vocabulary": ["initiatives", "obesity", "equitable"],
-          "band_level": "7.5-8.5",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "id": 117,
-      "topic": "Society",
-      "type": "Problem/Solution",
-      "question": "Homelessness is a growing problem. What are the causes and solutions?",
-      "ideas_list": [
-        {
-          "ideas": {
-            "agree": ["Unemployment", "High housing costs", "Family breakdown"],
-            "disagree": ["Provide affordable housing", "Job creation programs", "Social support services"]
-          },
-          "vocabulary": ["unemployment", "affordable", "services"],
-          "band_level": "5-6",
-          "tags": ["hot"]
-        },
-        {
-          "ideas": {
-            "agree": ["Joblessness", "Expensive accommodation", "Breakdown of family structures"],
-            "disagree": ["Government housing schemes", "Employment initiatives", "Welfare support"]
-          },
-          "vocabulary": ["schemes", "initiatives", "welfare"],
-          "band_level": "6.5-7.5",
-          "tags": []
-        },
-        {
-          "ideas": {
-            "agree": ["Lack of jobs", "Housing affordability crisis", "Family instability"],
-            "disagree": ["Invest in social housing", "Promote employment opportunities", "Provide comprehensive support services"]
-          },
-          "vocabulary": ["comprehensive", "instability", "invest"],
-          "band_level": "7.5-8.5",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "id": 118,
-      "topic": "Work",
-      "type": "Advantages/Disadvantages",
-      "question": "Teamwork is better than individual work. What are the advantages and disadvantages?",
-      "ideas_list": [
-        {
-          "ideas": {
-            "agree": ["Combines skills", "Encourages collaboration", "Generates diverse ideas"],
-            "disagree": ["Conflict between members", "Slower decisions", "Unequal contribution"]
-          },
-          "vocabulary": ["collaboration", "diverse", "conflict"],
-          "band_level": "5-6",
-          "tags": ["hot"]
-        },
-        {
-          "ideas": {
-            "agree": ["Synergy of skills", "Enhances cooperation", "Encourages creative solutions"],
-            "disagree": ["Disagreements may arise", "Decision-making can be slow", "Some members contribute less"]
-          },
-          "vocabulary": ["synergy", "cooperation", "disagreements"],
-          "band_level": "6.5-7.5",
-          "tags": []
-        },
-        {
-          "ideas": {
-            "agree": ["Promotes skill-sharing", "Improves collaborative problem solving", "Fosters creativity"],
-            "disagree": ["Potential interpersonal conflicts", "Slower consensus", "Unequal workload distribution"]
-          },
-          "vocabulary": ["consensus", "distribution", "interpersonal"],
-          "band_level": "7.5-8.5",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "id": 119,
-      "topic": "Education",
-      "type": "Discussion",
-      "question": "Should schools focus more on practical skills than theoretical knowledge? Discuss both views.",
-      "ideas_list": [
-        {
-          "ideas": {
-            "agree": ["Prepares for real life", "Increases employability", "Engages students"],
-            "disagree": ["Theory is foundation", "Develops analytical skills", "Maintains academic rigor"]
-          },
-          "vocabulary": ["employability", "analytical", "rigor"],
-          "band_level": "5-6",
-          "tags": ["hot"]
-        },
-        {
-          "ideas": {
-            "agree": ["Practical skills enhance career readiness", "Improves student engagement", "Bridges education and work"],
-            "disagree": ["Theoretical knowledge supports reasoning", "Develops critical thinking", "Maintains curriculum standards"]
-          },
-          "vocabulary": ["readiness", "critical", "curriculum"],
-          "band_level": "6.5-7.5",
-          "tags": []
-        },
-        {
-          "ideas": {
-            "agree": ["Focus on real-world skills", "Boosts employability", "Encourages experiential learning"],
-            "disagree": ["Theory builds cognitive foundation", "Enhances problem-solving abilities", "Ensures academic standards"]
-          },
-          "vocabulary": ["experiential", "cognitive", "abilities"],
-          "band_level": "7.5-8.5",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "id": 120,
-      "topic": "Environment",
-      "type": "Opinion",
-      "question": "Individuals should take responsibility for protecting the environment. Do you agree or disagree?",
-      "ideas_list": [
-        {
-          "ideas": {
-            "agree": ["Promotes sustainable habits", "Reduces pollution", "Encourages awareness"],
-            "disagree": ["Government should enforce laws", "Individuals may lack impact", "Some cannot afford eco-friendly options"]
-          },
-          "vocabulary": ["sustainable", "awareness", "enforce"],
-          "band_level": "5-6",
-          "tags": ["hot"]
-        },
-        {
-          "ideas": {
-            "agree": ["Fosters personal responsibility", "Helps preserve nature", "Increases environmental consciousness"],
-            "disagree": ["Policy enforcement needed", "Individual actions may be insufficient", "Eco-friendly products can be expensive"]
-          },
-          "vocabulary": ["consciousness", "preserve", "policy"],
-          "band_level": "6.5-7.5",
-          "tags": []
-        },
-        {
-          "ideas": {
-            "agree": ["Encourages sustainable living", "Reduces ecological footprint", "Raises environmental awareness"],
-            "disagree": ["Government regulations are crucial", "Individual efforts alone are limited", "Green alternatives may be costly"]
-          },
-          "vocabulary": ["footprint", "alternatives", "ecological"],
-          "band_level": "7.5-8.5",
-          "tags": []
-        }
-      ]
-    }
+        
+
   ]
 }
